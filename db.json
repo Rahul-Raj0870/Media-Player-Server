@@ -1,0 +1,92 @@
+{
+  "uploadVideos": [
+    {
+      "id": "bc4c",
+      "caption": "Alladin",
+      "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/alladin_600x450_moviespg_mobile_7_d097b99b.jpeg?region=0,0,600,450",
+      "youTubeLink": "https://www.youtube.com/embed/-G5XI61Y9ms"
+    },
+    {
+      "caption": "CSS Tutorial",
+      "imgUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HdU823-ZuVNOTnas.png",
+      "youTubeLink": "https://www.youtube.com/embed/yVrjcWJz0VQ",
+      "id": "ieDEgtL"
+    },
+    {
+      "caption": "Man of Steel",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b273dff6866182b662f2224ef0b2",
+      "youTubeLink": "https://www.youtube.com/embed/T6DJcgm3wNY",
+      "id": "bsLW_RS"
+    }
+  ],
+  "categories": [
+    {
+      "id": "e8d6",
+      "categoryName": "Trailers ",
+      "allVideos": [
+        {
+          "id": "3c70",
+          "caption": "Jungle Book",
+          "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/p_thejunglebook2016_19751_6b8cfcec.jpeg",
+          "youTubeLink": "https://www.youtube.com/embed/T_EN03fJIyY"
+        },
+        {
+          "id": "0d33",
+          "caption": "Avengers",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/eOrNdBpGMv8"
+        }
+      ]
+    },
+    {
+      "categoryName": "Tutorial ",
+      "allVideos": [
+        {
+          "caption": "CSS Tutorial",
+          "imgUrl": "https://miro.medium.com/v2/resize:fit:1200/0*HdU823-ZuVNOTnas.png",
+          "youTubeLink": "https://www.youtube.com/embed/yVrjcWJz0VQ",
+          "id": "_39G9YG"
+        }
+      ],
+      "id": "7sibnAg"
+    }
+  ],
+  "history": [
+    {
+      "id": "eaa1",
+      "caption": "Avengers",
+      "youTubeLink": "https://www.youtube.com/embed/eOrNdBpGMv8",
+      "timeStamp": "11/5/2024, 9:57:57 AM GMT+5:30"
+    },
+    {
+      "id": "07cc",
+      "caption": "Vazha",
+      "youTubeLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "timeStamp": "11/5/2024, 10:07:29 AM GMT+5:30"
+    },
+    {
+      "id": "3ca0",
+      "caption": "Avengers",
+      "youTubeLink": "https://www.youtube.com/embed/eOrNdBpGMv8",
+      "timeStamp": "11/5/2024, 10:16:53 PM GMT+5:30"
+    },
+    {
+      "id": "82cf",
+      "caption": "Jungle Book",
+      "youTubeLink": "https://www.youtube.com/embed/T_EN03fJIyY",
+      "timeStamp": "11/5/2024, 10:22:43 PM GMT+5:30"
+    },
+    {
+      "caption": "Jungle Book",
+      "youTubeLink": "https://www.youtube.com/embed/T_EN03fJIyY",
+      "timeStamp": "11/6/2024, 11:19:51 AM GMT+5:30",
+      "id": "VmbD9Rp"
+    },
+    {
+      "caption": "CSS Tutorial",
+      "youTubeLink": "https://www.youtube.com/embed/yVrjcWJz0VQ",
+      "timeStamp": "11/6/2024, 1:40:01 PM GMT+5:30",
+      "id": "1-VT1hF"
+    }
+  ]
+}
